@@ -1,0 +1,123 @@
+# Privacy Policy
+
+**Last Updated:** July 9, 2026
+
+## 1. Introduction
+
+This Privacy Policy explains how this Discord application ("Bot") collects, uses, stores, and protects information while providing its services.
+
+By using the Bot, you agree to the practices described in this Privacy Policy.
+
+## 2. Information We Collect
+
+Depending on the features you use, the Bot may process the following information.
+
+### Discord Information
+
+- Discord User ID
+- Discord Server (Guild) ID
+- Discord Channel ID
+- Discord Role ID
+- Discord Message ID
+
+### User Content
+
+When necessary to provide requested functionality, the Bot may process:
+
+- Commands submitted to the Bot
+- Message content (only when required by enabled Bot features)
+- Slash command interactions
+- Component interactions (buttons, select menus, modals)
+
+### Technical Information
+
+To maintain service quality, we may collect:
+
+- Error logs
+- Diagnostic information
+- API request metadata
+- Performance metrics
+
+We do not intentionally collect sensitive personal information.
+
+## 3. How We Use Information
+
+Collected information is used only to:
+
+- Provide Bot functionality.
+- Respond to user commands.
+- Synchronize application data.
+- Improve reliability and performance.
+- Detect abuse, spam, fraud, or security incidents.
+- Comply with applicable legal obligations.
+
+We do **not** use collected information for advertising, marketing, behavioral profiling, or selling user data.
+
+## 4. Discord Privileged Intents
+
+If the Bot has access to Discord Privileged Intents (including Message Content Intent, Server Members Intent, or Presence Intent), such access is used only when required for Bot features explicitly requested by users or server administrators.
+
+The Bot processes only the minimum amount of information necessary to provide those features.
+
+## 5. Data Sharing
+
+We do not sell, rent, or trade user information.
+
+Information may only be shared:
+
+- With Discord as required to operate the Bot.
+- With trusted infrastructure or cloud service providers acting on our behalf.
+- When required by applicable law, regulation, or legal process.
+- To protect the security, integrity, or lawful operation of the service.
+
+## 6. Data Retention
+
+Information is retained only for as long as necessary to:
+
+- Provide requested functionality.
+- Maintain service reliability.
+- Resolve technical issues.
+- Meet legal obligations.
+
+Information that is no longer required is deleted or anonymized where reasonably practicable.
+
+## 7. Data Security
+
+We implement reasonable technical and organizational safeguards to protect information against unauthorized access, disclosure, alteration, or destruction.
+
+However, no method of electronic transmission or storage is completely secure, and absolute security cannot be guaranteed.
+
+## 8. Your Rights
+
+Depending on applicable law, you may have the right to:
+
+- Request access to your information.
+- Request correction of inaccurate information.
+- Request deletion of applicable information.
+- Object to certain processing activities.
+
+Requests may be submitted using the contact information below.
+
+## 9. Children's Privacy
+
+The Bot is not intended for individuals below the minimum age required to use Discord under applicable law.
+
+We do not knowingly collect personal information from children.
+
+## 10. Third-Party Services
+
+The Bot relies on Discord and may use third-party infrastructure providers (such as cloud hosting, databases, monitoring, and logging services) to operate.
+
+Use of those services is governed by their respective privacy policies.
+
+## 11. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time.
+
+The revised version becomes effective upon publication on this page. Continued use of the Bot constitutes acceptance of the updated Privacy Policy.
+
+## 12. Contact
+
+If you have questions regarding this Privacy Policy or wish to exercise your privacy rights, please contact:
+
+**Email:** maaysigma@gmail.com
